@@ -1,4 +1,4 @@
-### Olá! me chamo Vinícius Menezes, desenvolvedor Front-End e Estudante de Engenharia de Computação! 👋
+### Olá! me chamo Vinícius Menezes, desenvolvedor Front-End e Estudante de Engenharia da Computação! 👋
 
 <div align="center">
   <a href="https://github.com/ViniciusAzevedoM">

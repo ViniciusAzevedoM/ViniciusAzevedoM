@@ -1,4 +1,4 @@
-## Olá! Me chamo Vinícius Menezes, sou desenvolvedor Front-End com conhecimentos em UX Design 👋
+## Olá, sou Vinícius Menezes! Desenvolvedor Front-End com conhecimentos em UX Design🙋‍♂️
 
 <!-- <div align="center">
   <a href="https://github.com/ViniciusAzevedoM">

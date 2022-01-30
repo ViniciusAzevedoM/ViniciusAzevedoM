@@ -5,13 +5,17 @@
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=ViniciusAzevedoM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAzevedoM&layout=compact&langs_count=7&theme=algolia"/>
 </div> -->
-## Formações:
+
+### Formações:
 - Bacharel em Ciências e Tecnologia - Universidade Federal do Rio Grande do Norte
 - Graduando em Engenharia da Computação - Universidade Federal do Rio Grande do Norte
  
  ### Algumas informações interessantes:
  - Trabalhei em site em produção com mais de 3.000 acessos por mês! 😁
  - Aumentei a taxa de conversão de um site onde está faturando R$ 65.000 a mais ao longo do ano! 🚀
+
+### Neste repositório você pode acessar alguns trabalhos no arquivo README.md:
+- https://github.com/ViniciusAzevedoM/Portfolio
 
 ### As principais stacks com que trabalho:
 

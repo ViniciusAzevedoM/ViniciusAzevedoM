@@ -14,7 +14,7 @@
  - Trabalho com site em produção que tem mais de 3.000 acessos por mês! 😁
  - Aumentei a taxa de conversão em um site causando cerca de R$ 65.000 a mais de faturamento ao longo do ano! 🚀
 
-### Neste repositório você pode acessar alguns trabalhos no arquivo README.md:
+### Neste repositório, no arquivo README.md, você pode acessar alguns trabalhos:
 - https://github.com/ViniciusAzevedoM/Portfolio
 - Fique à vontade para acessar outros repositórios em meu Github!
 

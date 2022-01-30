@@ -18,7 +18,7 @@
 - https://github.com/ViniciusAzevedoM/Portfolio
 - Fique à vontade para acessar outros repositórios em meu Github!
 
-### As principais stacks com que trabalho:
+### Principais stacks com que trabalho:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,6 +31,7 @@
 </div>
  
  <div>
+Redes sociais:
    <a href="https://linkedin.com/in/vinicius-de-azevedo-menezes" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
    

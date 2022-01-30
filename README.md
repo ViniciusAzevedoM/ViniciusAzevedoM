@@ -29,9 +29,9 @@
   <img align="center" alt="Vini-Tailwind" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
   <img align="center" alt="Vini-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
- 
- <div>
-Redes sociais:
+
+### Redes sociais:
+<div>
    <a href="https://linkedin.com/in/vinicius-de-azevedo-menezes" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
    

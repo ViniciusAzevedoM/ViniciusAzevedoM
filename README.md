@@ -1,4 +1,4 @@
-## Olá! Me chamo Vinícius Menezes, sou desenvolvedor Front-End com conhecimentos em UX Design. 👋
+## Olá! Me chamo Vinícius Menezes, sou desenvolvedor Front-End com conhecimentos em UX Design 👋
 
 <!-- <div align="center">
   <a href="https://github.com/ViniciusAzevedoM">
@@ -16,6 +16,7 @@
 
 ### Neste repositório você pode acessar alguns trabalhos no arquivo README.md:
 - https://github.com/ViniciusAzevedoM/Portfolio
+- Fique à vontade para acessar outros repositórios em meu Github!
 
 ### As principais stacks com que trabalho:
 

@@ -11,8 +11,8 @@
 - Graduando em Engenharia da Computação - Universidade Federal do Rio Grande do Norte
  
  ### Algumas informações interessantes:
- - Trabalhei em site em produção com mais de 3.000 acessos por mês! 😁
- - Aumentei a taxa de conversão de um site onde está faturando R$ 65.000 a mais ao longo do ano! 🚀
+ - Trabalho com site em produção que tem mais de 3.000 acessos por mês! 😁
+ - Aumentei a taxa de conversão em um site causando R$ 65.000 de faturamento a mais ao longo do ano! 🚀
 
 ### Neste repositório você pode acessar alguns trabalhos no arquivo README.md:
 - https://github.com/ViniciusAzevedoM/Portfolio

@@ -11,7 +11,7 @@
 - Graduando em Engenharia da Computação - Universidade Federal do Rio Grande do Norte
  
  ### Algumas informações interessantes:
- - Já palestrei no maior evento de experiência tecnológica do mundo, a Campus Party!
+ - Já palestrei no evento considerado como o maior em experiência tecnológica do mundo, a Campus Party!
  - Trabalho com site em produção que tem mais de 3.000 acessos por mês! 😁
  - Aumentei a taxa de conversão em um site causando cerca de R$ 65.000 a mais de faturamento ao longo do ano! 🚀
 

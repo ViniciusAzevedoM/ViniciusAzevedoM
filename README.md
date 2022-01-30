@@ -1,11 +1,14 @@
-## Olá! Me chamo Vinícius Menezes, atuo como desenvolvedor Front-End com conhecimentos em UX Design. Me tornei Bacharel em Ciências e Tecnologia e estou Graduando em Engenharia da Computação! 👋
+## Olá! Me chamo Vinícius Menezes, sou desenvolvedor Front-End com conhecimentos em UX Design.
 
 <!-- <div align="center">
   <a href="https://github.com/ViniciusAzevedoM">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=ViniciusAzevedoM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAzevedoM&layout=compact&langs_count=7&theme=algolia"/>
 </div> -->
-
+## Formações:
+- Bacharel em Ciências e Tecnologia - Universidade Federal do Rio Grande do Norte
+- Graduando em Engenharia da Computação - Universidade Federal do Rio Grande do Norte
+ 
  ### Algumas informações interessantes:
  - Trabalhei em site em produção com mais de 3.000 acessos por mês! 😁
  - Aumentei a taxa de conversão de um site onde está faturando R$ 65.000 a mais ao longo do ano! 🚀

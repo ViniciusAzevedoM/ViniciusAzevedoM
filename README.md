@@ -1,4 +1,4 @@
-## Olá! Me chamo Vinícius Menezes, sou desenvolvedor Front-End, Bacharel em Ciências e Tecnologia e Graduando em Engenharia da Computação! 👋
+## Olá! Me chamo Vinícius Menezes, atuo como desenvolvedor Front-End com conhecimentos em UX Design. Me tornei Bacharel em Ciências e Tecnologia e estou Graduando em Engenharia da Computação! 👋
 
 <!-- <div align="center">
   <a href="https://github.com/ViniciusAzevedoM">

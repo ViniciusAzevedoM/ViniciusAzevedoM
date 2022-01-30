@@ -12,7 +12,7 @@
  
  ### Algumas informações interessantes:
  - Trabalho com site em produção que tem mais de 3.000 acessos por mês! 😁
- - Aumentei a taxa de conversão em um site causando cerca de R$ 65.000 de faturamento a mais ao longo do ano! 🚀
+ - Aumentei a taxa de conversão em um site causando cerca de R$ 65.000 a mais de faturamento ao longo do ano! 🚀
 
 ### Neste repositório você pode acessar alguns trabalhos no arquivo README.md:
 - https://github.com/ViniciusAzevedoM/Portfolio

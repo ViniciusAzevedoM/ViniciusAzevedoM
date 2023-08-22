@@ -6,7 +6,7 @@
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAzevedoM&layout=compact&langs_count=7&theme=algolia"/>
 </div> -->
 
-Com mais de 4 anos de experiência na área, com foco principal em Desenvolvimento Front-end, estou sempre buscando me atualizar com as principais tecnologias do mercado e já trabalhei com diversas stacks.
+Com mais de 4 anos de experiência na área, com foco principal em Desenvolvimento Front-end, estou sempre buscando me atualizar com as principais tecnologias do mercado e já trabalhei com diversas stacks. Já palestrei sobre desenvolvimento em eventos como Campus Party, gerei resultado com UX Design de milhares de reais ainda como estagiário, lidero comunidades de tecnologia para mais de 400 pessoas e já participei desde a ideação até o desenvolvimento de diversos projetos.
 
 ### Formações:
 - Bacharel em Ciências e Tecnologia - Universidade Federal do Rio Grande do Norte

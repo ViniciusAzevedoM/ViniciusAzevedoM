@@ -1,4 +1,4 @@
-## Olá, sou Vinícius Menezes! Engenheiro de Software com habilidades em UX Design, Vendas e Growth. 🙋‍♂️
+## Olá, sou Vinícius Menezes! Engenheiro de Software & Engenheiro de DevOps 🙋‍♂️
 
 <!-- <div align="center">
   <a href="https://github.com/ViniciusAzevedoM">

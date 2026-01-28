@@ -1,18 +1,12 @@
-## Olá, sou Vinícius Menezes! Engenheiro de Software & Engenheiro de DevOps 🙋‍♂️
+## Hello, I am Vinícius Menezes! Senior Software Engineer 🙋‍♂️
 
-<!-- <div align="center">
-  <a href="https://github.com/ViniciusAzevedoM">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=ViniciusAzevedoM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAzevedoM&layout=compact&langs_count=7&theme=algolia"/>
-</div> -->
+I am a versatile Senior Software Engineer and Technology Leader with over 6 years of experience, delivering resilient, full-stack, and cloud-native solutions in fast-paced international environments. Translating complex business requirements into high-performance systems using modern JavaScript/TypeScript, React.js, and Node.js stacks, underpinned by DevOps and Cloud Architecture principles.
 
-Com mais de 5 anos de experiência na área, estou sempre buscando me atualizar com as principais tecnologias do mercado e já trabalhei com diversas stacks. Já palestrei sobre desenvolvimento em eventos como Campus Party, gerei resultado com UX Design de milhares de reais ainda quando era estagiário, lidero comunidade de tecnologia para mais de 400 pessoas e já participei desde a ideação até o desenvolvimento de diversos projetos.
+By leveraging deep technical expertise, I helped companies save over $200,000 annually through software engineering. I adhere to the best Clean Architecture & DevOps principles, improving development efficiency and user experience, and achieving results such as increasing software performance by over 50% and reducing work time through automation.
 
-### Formações:
-- Bacharel em Ciências e Tecnologia - Universidade Federal do Rio Grande do Norte
-- Graduado em Engenharia da Computação - Universidade Federal do Rio Grande do Norte
+ I am a technology enthusiast, astronomy lover, and former competitive swimmer committed to leveraging innovation to deliver strategic value and make a positive impact on a global scale.
 
-### Redes sociais:
-<div>
-   <a href="https://linkedin.com/in/vinicius-de-azevedo-menezes" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Degrees
+
+- Bachelor's degree, Computer Engineering - Universidade Federal do Rio Grande do Norte
+- Bachelor's degree, Science and Technology - Universidade Federal do Rio Grande do Norte
